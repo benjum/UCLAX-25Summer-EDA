@@ -1,0 +1,16 @@
+numpy
+matplotlib
+pandas
+seaborn
+altair
+plotly
+ipywidgets
+dash
+jupyterlab
+vega_datasets
+scipy
+scikit-learn
+geopandas
+contextily
+folium
+mapclassify
