@@ -4,7 +4,7 @@ This repository is maintained by Ben Winjum for the Summer 2025 Session of UCLA 
 
 There are several ways to interact with these notebooks.  We'll start with Colab:
 
-<a href="https://colab.research.google.com/github/bwinjum/UCLAX-25Summer-EDA/blob/main/"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/benjum/UCLAX-25Summer-EDA/blob/main/"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 To interact with the notebooks via Binder, click here:
 
